@@ -6,10 +6,10 @@ export const LINKS = {
   clean: "", // filled from CLEAN_BUY_URL below
   download: "https://apps.microsoft.com/detail/9NBXJTP02Q2G",
   buy: "https://buy.polar.sh/polar_cl_Kvqhz63szGGnNM8HHYlhSbUIsm6lb3N0iLccO4RdxQz",
-  home: "https://easyupscale.cz/cs/",
-  privacy: "https://easyupscale.cz/cs/privacy.html",
-  refund: "https://easyupscale.cz/cs/refund.html",
-  about: "https://easyupscale.cz/cs/about.html",
+  home: "https://easyupscaleai.com/cs/",
+  privacy: "https://easyupscaleai.com/cs/privacy.html",
+  refund: "https://easyupscaleai.com/cs/refund.html",
+  about: "https://easyupscaleai.com/cs/about.html",
 };
 export const POLAR_API = "https://api.polar.sh/v1/customer-portal/license-keys/validate"; // the same public, login-free endpoint the app uses (app/activation.py)
 export const POLAR_ORG_ID = "ad6e983b-f519-437d-80e5-22d92f285a3c";
